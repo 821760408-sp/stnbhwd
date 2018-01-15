@@ -2,14 +2,14 @@ package = "stnbhwd"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/qassemoquab/stnbhwd.git",
+   url = "git@github.com:821760408-sp/stnbhwd.git",
 }
 
 description = {
    summary = "Spatial Transformer Networks for Torch",
    detailed = [[
    ]],
-   homepage = "https://github.com/qassemoquab/stnbhwd",
+   homepage = "https://github.com/821760408-sp/stnbhwd",
    license = "MIT"
 }
 
